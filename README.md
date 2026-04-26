@@ -1,6 +1,6 @@
 # Billing Invoice
 
-**Live Demo:** [https://somnathchakraverty.github.io/Billing-Invoice/invoice_html_replica.html](https://somnathchakraverty.github.io/Billing-Invoice/invoice_html_replica.html)
+**Live Demo:** [https://somnathchakraverty.github.io/Billing-Invoice/](https://somnathchakraverty.github.io/Billing-Invoice/)
 
 A lightweight, browser-based invoice/receipt generator — no backend, no dependencies, no build step. Open the HTML file in any modern browser, fill in your details, and print or save as PDF.
 
@@ -10,7 +10,7 @@ A lightweight, browser-based invoice/receipt generator — no backend, no depend
 
 | File | Purpose |
 |---|---|
-| `invoice_html_replica.html` | **Main file.** Interactive editable receipt in thermal-printer style (280 px wide). |
+| `index.html` | **Main file.** Interactive editable receipt in thermal-printer style (280 px wide). |
 | `invoice_print_ready.html` | A4 professional invoice layout — same data, full-page format. |
 | `invoice_receipt.pdf` | Sample printed output generated from the main file. |
 
