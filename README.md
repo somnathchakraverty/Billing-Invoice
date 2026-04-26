@@ -1,6 +1,6 @@
 # Billing Invoice
 
-**Live Demo:** [https://somnathchakraverty.github.io/Billing-Invoice/](https://somnathchakraverty.github.io/Billing-Invoice/)
+**Live Demo:** <a href="https://somnathchakraverty.github.io/Billing-Invoice/" target="_blank" rel="noopener noreferrer">https://somnathchakraverty.github.io/Billing-Invoice/</a>
 
 A lightweight, browser-based invoice/receipt generator — no backend, no dependencies, no build step. Open the HTML file in any modern browser, fill in your details, and print or save as PDF.
 
