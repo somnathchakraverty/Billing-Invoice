@@ -1,5 +1,7 @@
 # Billing Invoice
 
+**Live Demo:** [https://somnathchakraverty.github.io/Billing-Invoice/invoice_html_replica.html](https://somnathchakraverty.github.io/Billing-Invoice/invoice_html_replica.html)
+
 A lightweight, browser-based invoice/receipt generator — no backend, no dependencies, no build step. Open the HTML file in any modern browser, fill in your details, and print or save as PDF.
 
 ---
